@@ -1,0 +1,6 @@
+duckdb.csv
+eager_polars.csv
+pandas.csv
+lazy_polars.csv
+.ipynb_checkpoints/bench-checkpoint.ipynb
+.ipynb_checkpoints/data-checkpoint.csv
